@@ -6,13 +6,7 @@ Ask Your Document is a Python script that allows you to extract information from
 
 ## Installation
 
-### For Users
 
-Please visit:
-
-https://github.com/mkrupczak3/Ask-Your-Document/releases 
-
-...to obtain an executable for your system
 
 ### For Developers
 
