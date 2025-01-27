@@ -23,7 +23,7 @@ Ask Your Document is a Python script that allows you to extract information from
 
 2. Clone this project from GitHub (requires [git](https://github.com/git-guides/install-git)):
     ```bash
-    git clone https://github.com/mkrupczak3/Ask-Your-Document
+    git clone https://github.com/vincentkipchoge/Ask-Your-Document.git
     ```
 
 3. Go into the project directory:
@@ -67,7 +67,7 @@ If the program displays an authentication error saying it can't authenticate wit
 
 2. Clone the project from GitHub (requires [git](https://github.com/git-guides/install-git)):
     ```bash
-    git clone https://github.com/mkrupczak3/Ask-Your-Document
+    git clone https://github.com/vincentkipchoge/Ask-Your-Document.git
     ```
 
 3. Go into the project directory:
